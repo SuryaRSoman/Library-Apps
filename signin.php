@@ -34,7 +34,7 @@
       <center><p class="txtstyle">Sign In</p></center>
       <div class="row">
           <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-            <img src="./images/img4.jpeg" height="480" width="450" alt="">
+            <img src="./images/img4.jpeg" height="480" width="400" alt="">
           </div>
               <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
                  
@@ -50,7 +50,7 @@
                       </tr>
                       <tr>
                           <td></td>
-                          <td><a href="signup.html">New User!! Don't have an account?? </a></td>
+                          <td><a href="signup.php">New User!! Don't have an account?? </a></td>
 
                       </tr>
                       <tr>

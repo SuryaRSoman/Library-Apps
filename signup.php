@@ -36,7 +36,7 @@
         <center><p class="txtstyle">Sign Up</p></center>
         <div class="row">
           <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-            <img src="./images/img3.jpeg" height="700" width="550" alt="">
+            <img src="./images/img3.jpeg" height="700" width="400" alt="">
           </div>
               
               <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
@@ -84,7 +84,7 @@
                       </tr>
                       <tr>
                         <td></td>
-                        <td><a href="signin.html">Already have an account!!</a></td>
+                        <td><a href="signin.php">Already have an account!!</a></td>
                       </tr>
                       <tr>
                         <td></td>
