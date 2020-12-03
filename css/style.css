@@ -5,13 +5,13 @@
 
 .txtstyle{
     font-size: 70px;
-    color: brown;
+    color: rgb(119, 22, 22);
     font-family: 'Times New Roman', Times, sans-serif;
 }
 
 .text{
     font-size: 70px;
-    color: brown;
+    color: rgb(119, 22, 22);
     font-family: 'Times New Roman', Times, sans-serif;
 }
 
@@ -23,6 +23,6 @@
      color: white;
      font-size: 30px;
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-     background-color: rgb(161, 84, 84) ;
+     background-color: rgb(148, 112, 112) ;
      border-radius: 40px;
  }
